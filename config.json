@@ -1,7 +1,7 @@
 {
   "Version": "12",
   "ReleaseNotes": "Atualização disponível",
-  "UrlUpdate": "https://raw.githubusercontent.com/rtmtip/config/refs/heads/main/config.json",
+  "UrlUpdate": "https://github.com/rtmtip/config/raw/refs/heads/main/config.json",
   "Sms": "",
   "EmailFeedback": "",
   "UrlContato": "",
